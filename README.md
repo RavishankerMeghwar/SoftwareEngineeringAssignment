@@ -9,9 +9,9 @@ SE Assignment
 
 
 
-                                        PAPER NO-1
+                                                PAPER NO-1
                                         
-                 A Human Study of Comprehension and Code Summarization
+                            A Human Study of Comprehension and Code Summarization
 
 
 
@@ -27,8 +27,9 @@ PUBLISHED DATE: Tue 14 Jul 2020 02:00 - 02:15 at ICPC - Session 4: Summalization
 
 
 
-                                       SUMMARY
-                                     INTRODUCTION
+                                                 SUMMARY
+                                                 
+                                               INTRODUCTION
                                      
                                      
                                      
@@ -49,7 +50,7 @@ There is a pressing need for extrinsic studies that show how automatic summariza
 
 
 
-                                 Research Methodology
+                                              RESEARCH METHODOLOGY
                                  
                                  
                                  
@@ -67,7 +68,7 @@ Survey Instrument
    
    
    
-                                      RESULTS
+                                                  RESULTS
 
 
 
@@ -83,9 +84,9 @@ First They find that human-written summaries help developers comprehend code sig
 
 
 
-                                       PAPER 2
+                                                 PAPER NO-2
                                      
-                 On the Relationship between User Churn and Software Issues
+                             On the Relationship between User Churn and Software Issues
 
 
 
@@ -103,9 +104,9 @@ Published Date:   Mon 29 Jun 2020 14:40 - 14:50 at MSR:Zoom – Bugs & Issues Ch
 
 
  
-                                        Summary
+                                                SUMMARY
                                         
-                                      INTRODUCTION
+                                             INTRODUCTION
                                       
                                       
                                       
@@ -122,8 +123,7 @@ The goal of the alternativeto.net website is to help users to find software alte
 
 
 
-                                    Research Methodology
-                                    
+                                                RESEARCH METHODOLOGY
                                     
                                     
                                     
@@ -133,7 +133,7 @@ The objective of the aternativeto.net site is to assist clients with finding pro
 
 
 
-                                       RESULTS
+                                                     RESULTS
                                        
                                        
                                        
@@ -152,9 +152,9 @@ In this paper finally got result, They study the data available on alternativeto
 
 
  
-                                     PAPER 3
+                                              PAPER 3
                                      
-       UI Screens Identification and Extraction from Mobile Programming Screencasts
+                  UI Screens Identification and Extraction from Mobile Programming Screencasts
 
 TITLE:  UI Screens Identification and Extraction from Mobile Programming Screencasts
 
@@ -169,9 +169,9 @@ PUBLISHED DATE:  Mon 13 Jul 2020 15:12 - 15:24 at ICPC -Session 1: Tests Chair(s
 
 
 
-                                     Summary
+                                            SUMMARY
                                      
-                                   INTRODUCTION
+                                          INTRODUCTION
                                    
                                    
 This research paper is all about the UI Screens Identification and Extraction from Mobile Programming Screencasts. Smart phones are some of the most widely used devices today, with more than 2.5 billion users worldwide. The two most popular app stores, the Apple App Store and Google Play Store host millions of smart phone applications that people use for a variety of tasks in their daily lives. The increasing demand for these applications has spurred growth in mobile app development with more and more programmers learning to develop new mobile applications or having to maintain and evolve existing ones. When learning about new concepts and technologies, debugging, or looking for answers to programming questions, online resources are developers’ preferred documentation sources.
@@ -188,8 +188,7 @@ The second part of their evaluation is represented by a user study which focuses
 
 
 
-                               Research Methodology
-                               
+                                        RESEARCH METHODOLOGY
                                
                                
                                
@@ -200,7 +199,7 @@ For this study, They collected a brand new set of 50 programming screencasts (25
 
 
 
-                                    RESULTS
+                                            RESULTS
                                     
                                     
                                     
@@ -222,4 +221,4 @@ In 85% of their responses, developers either weakly or strongly agreed that the 
 
 
 
-                                    --THE END-- 
+                                         --THE END-- 
